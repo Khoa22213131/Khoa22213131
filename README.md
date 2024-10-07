@@ -1,3 +1,13 @@
+<div align="center">
+  <div style="display: flex; justify-content: space-around; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" style="width: 45%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chisngyen&theme=gruvbox_light&hide_border=false" style="width: 45%;" />
+  </div>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisngyen&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-top: 20px; width: 50%;" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100025813323565) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khoaoe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khoa-nguyen-50b535294/) 
